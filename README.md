@@ -1,2 +1,2 @@
-http://zbqqh.github/lianxi
+http://zbqqh.github.com/lianxi
 这是个练习项目
